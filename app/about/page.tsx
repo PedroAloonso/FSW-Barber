@@ -1,4 +1,8 @@
+"use client"
+
+import { Button } from "../_components/ui/button"
+
 const Teste = () => {
-    return <h1>Teste</h1>
+    return <Button>teste</Button>
 }
 export default Teste
